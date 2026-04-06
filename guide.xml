@@ -1,0 +1,1200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator_info_name="GitHub_EPG">
+  <channel id="1TV.ru">
+    <display-name>Первый канал</display-name>
+    <display-name>Первый HD</display-name>
+    <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/37328/213-2/orig" />
+  </channel>
+  <channel id="NTV.ru">
+    <display-name>НТВ</display-name>
+    <display-name>НТВ HD</display-name>
+    <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/120286/213-3/orig" />
+  </channel>
+  <channel id="EH.tv">
+    <display-name>ЭХ!</display-name>
+    <display-name>ЭХ! HD</display-name>
+    <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/1545642/213-1/orig" />
+  </channel>
+  <channel id="ZA.tv">
+    <display-name>ЗА! ТВ</display-name>
+    <display-name>ЗА ТВ HD</display-name>
+    <display-name>ЗА! ТВ (Мелитополь)</display-name>
+    <icon src="https://za-media.ru/wp-content/uploads/2022/10/logo_za_tv.png" />
+  </channel>
+  <programme start="20260406050000 +0300" channel="1TV.ru">
+    <title lang="ru">Телеканал "Доброе утро"</title>
+  </programme>
+  <programme start="20260406090000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260406092500 +0300" channel="1TV.ru">
+    <title lang="ru">Модный приговор. Улетный гардероб для бывшей стюардессы</title>
+  </programme>
+  <programme start="20260406101500 +0300" channel="1TV.ru">
+    <title lang="ru">Жить здорово!</title>
+  </programme>
+  <programme start="20260406110000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260406120000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260406121500 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260406140000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260406150000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260406151500 +0300" channel="1TV.ru">
+    <title lang="ru">Давай поженимся!</title>
+  </programme>
+  <programme start="20260406160500 +0300" channel="1TV.ru">
+    <title lang="ru">Мужское / Женское</title>
+  </programme>
+  <programme start="20260406170000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260406180000 +0300" channel="1TV.ru">
+    <title lang="ru">Вечерние новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260406183000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260406195000 +0300" channel="1TV.ru">
+    <title lang="ru">Пусть говорят. Сага о роскоши. Дело вкуса Распутиной</title>
+  </programme>
+  <programme start="20260406210000 +0300" channel="1TV.ru">
+    <title lang="ru">Время</title>
+  </programme>
+  <programme start="20260406220000 +0300" channel="1TV.ru">
+    <title lang="ru">Павел. Первый и последний. 9-я серия</title>
+  </programme>
+  <programme start="20260406230000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260406001000 +0300" channel="1TV.ru">
+    <title lang="ru">Рокот космодрома. 1-я серия</title>
+  </programme>
+  <programme start="20260406010500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Россия и Запад на качелях истории</title>
+  </programme>
+  <programme start="20260406014500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Культура быта</title>
+  </programme>
+  <programme start="20260406022000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Обязательно к прочтению</title>
+  </programme>
+  <programme start="20260406030000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260406030500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Драгоценные истории</title>
+  </programme>
+  <programme start="20260406034000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Спроси Суркову</title>
+  </programme>
+  <programme start="20260406042000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Собрались с мыслями</title>
+  </programme>
+  <programme start="20260406045700 +0300" channel="1TV.ru">
+    <title lang="ru">Перерыв в вещании</title>
+  </programme>
+  <programme start="20260407050000 +0300" channel="1TV.ru">
+    <title lang="ru">Телеканал "Доброе утро"</title>
+  </programme>
+  <programme start="20260407090000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260407092500 +0300" channel="1TV.ru">
+    <title lang="ru">Модный приговор</title>
+  </programme>
+  <programme start="20260407101500 +0300" channel="1TV.ru">
+    <title lang="ru">Жить здорово!</title>
+  </programme>
+  <programme start="20260407110000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260407120000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260407121500 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260407140000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260407150000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260407151500 +0300" channel="1TV.ru">
+    <title lang="ru">Давай поженимся!</title>
+  </programme>
+  <programme start="20260407160500 +0300" channel="1TV.ru">
+    <title lang="ru">Мужское / Женское</title>
+  </programme>
+  <programme start="20260407170000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260407180000 +0300" channel="1TV.ru">
+    <title lang="ru">Вечерние новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260407183000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260407195000 +0300" channel="1TV.ru">
+    <title lang="ru">Пусть говорят</title>
+  </programme>
+  <programme start="20260407210000 +0300" channel="1TV.ru">
+    <title lang="ru">Время</title>
+  </programme>
+  <programme start="20260407220000 +0300" channel="1TV.ru">
+    <title lang="ru">Павел. Первый и последний. 10-я серия</title>
+  </programme>
+  <programme start="20260407230000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260407001000 +0300" channel="1TV.ru">
+    <title lang="ru">Рокот космодрома. 2-я серия</title>
+  </programme>
+  <programme start="20260407010500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Баден-Баден</title>
+  </programme>
+  <programme start="20260407014500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Легкие деньги</title>
+  </programme>
+  <programme start="20260407022000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Жизнь замечательных</title>
+  </programme>
+  <programme start="20260407030000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260407030500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Обман веществ</title>
+  </programme>
+  <programme start="20260407034000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Психика</title>
+  </programme>
+  <programme start="20260407042000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Все хотят летать</title>
+  </programme>
+  <programme start="20260407045700 +0300" channel="1TV.ru">
+    <title lang="ru">Перерыв в вещании</title>
+  </programme>
+  <programme start="20260408050000 +0300" channel="1TV.ru">
+    <title lang="ru">Телеканал "Доброе утро"</title>
+  </programme>
+  <programme start="20260408090000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260408092500 +0300" channel="1TV.ru">
+    <title lang="ru">Модный приговор</title>
+  </programme>
+  <programme start="20260408101500 +0300" channel="1TV.ru">
+    <title lang="ru">Жить здорово!</title>
+  </programme>
+  <programme start="20260408110000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260408120000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260408121500 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260408140000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260408150000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260408151500 +0300" channel="1TV.ru">
+    <title lang="ru">Давай поженимся!</title>
+  </programme>
+  <programme start="20260408160500 +0300" channel="1TV.ru">
+    <title lang="ru">Мужское / Женское</title>
+  </programme>
+  <programme start="20260408170000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260408180000 +0300" channel="1TV.ru">
+    <title lang="ru">Вечерние новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260408183000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260408195000 +0300" channel="1TV.ru">
+    <title lang="ru">Пусть говорят</title>
+  </programme>
+  <programme start="20260408210000 +0300" channel="1TV.ru">
+    <title lang="ru">Время</title>
+  </programme>
+  <programme start="20260408220000 +0300" channel="1TV.ru">
+    <title lang="ru">Павел. Первый и последний. 11-я серия</title>
+  </programme>
+  <programme start="20260408230000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260408001000 +0300" channel="1TV.ru">
+    <title lang="ru">Рокот космодрома. 3-я серия</title>
+  </programme>
+  <programme start="20260408010500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Психика</title>
+  </programme>
+  <programme start="20260408014000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Не лыком шиты</title>
+  </programme>
+  <programme start="20260408022000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Летописи конца времен</title>
+  </programme>
+  <programme start="20260408030000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260408030500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Россия и Запад на качелях истории</title>
+  </programme>
+  <programme start="20260408034000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. "Современное искусство: инструкция по применению"</title>
+  </programme>
+  <programme start="20260408042000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Обман веществ</title>
+  </programme>
+  <programme start="20260408045700 +0300" channel="1TV.ru">
+    <title lang="ru">Перерыв в вещании</title>
+  </programme>
+  <programme start="20260409050000 +0300" channel="1TV.ru">
+    <title lang="ru">Телеканал "Доброе утро"</title>
+  </programme>
+  <programme start="20260409090000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260409092500 +0300" channel="1TV.ru">
+    <title lang="ru">Модный приговор</title>
+  </programme>
+  <programme start="20260409101500 +0300" channel="1TV.ru">
+    <title lang="ru">Жить здорово!</title>
+  </programme>
+  <programme start="20260409110000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260409120000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260409121500 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260409140000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260409150000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260409151500 +0300" channel="1TV.ru">
+    <title lang="ru">Давай поженимся!</title>
+  </programme>
+  <programme start="20260409160500 +0300" channel="1TV.ru">
+    <title lang="ru">Мужское / Женское</title>
+  </programme>
+  <programme start="20260409170000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260409180000 +0300" channel="1TV.ru">
+    <title lang="ru">Вечерние новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260409183000 +0300" channel="1TV.ru">
+    <title lang="ru">Время покажет</title>
+  </programme>
+  <programme start="20260409195000 +0300" channel="1TV.ru">
+    <title lang="ru">Пусть говорят</title>
+  </programme>
+  <programme start="20260409210000 +0300" channel="1TV.ru">
+    <title lang="ru">Время</title>
+  </programme>
+  <programme start="20260409220000 +0300" channel="1TV.ru">
+    <title lang="ru">Павел. Первый и последний. 12-я серия</title>
+  </programme>
+  <programme start="20260409230000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260409001000 +0300" channel="1TV.ru">
+    <title lang="ru">Рокот космодрома. 4-я серия</title>
+  </programme>
+  <programme start="20260409010500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Обман веществ</title>
+  </programme>
+  <programme start="20260409014500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Баден-Баден</title>
+  </programme>
+  <programme start="20260409022000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Пусть не говорят, пусть читают</title>
+  </programme>
+  <programme start="20260409030000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260409030500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Кот Шрёдингера</title>
+  </programme>
+  <programme start="20260409034500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Сон в руку</title>
+  </programme>
+  <programme start="20260409042000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Жизнь замечательных</title>
+  </programme>
+  <programme start="20260409045700 +0300" channel="1TV.ru">
+    <title lang="ru">Перерыв в вещании</title>
+  </programme>
+  <programme start="20260412044500 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Мелодии моей жизни</title>
+  </programme>
+  <programme start="20260412052000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Театральный подкаст</title>
+  </programme>
+  <programme start="20260412060000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости</title>
+  </programme>
+  <programme start="20260412061000 +0300" channel="1TV.ru">
+    <title lang="ru">Играй, гармонь любимая!</title>
+  </programme>
+  <programme start="20260412065500 +0300" channel="1TV.ru">
+    <title lang="ru">Часовой</title>
+  </programme>
+  <programme start="20260412072500 +0300" channel="1TV.ru">
+    <title lang="ru">Здоровье</title>
+  </programme>
+  <programme start="20260412083000 +0300" channel="1TV.ru">
+    <title lang="ru">Золотая коллекция Союзмультфильма</title>
+  </programme>
+  <programme start="20260412091000 +0300" channel="1TV.ru">
+    <title lang="ru">"Непутевые заметки" с Дм. Крыловым</title>
+  </programme>
+  <programme start="20260412093000 +0300" channel="1TV.ru">
+    <title lang="ru">"Мечталлион". Национальная Лотерея</title>
+  </programme>
+  <programme start="20260412100000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260412101500 +0300" channel="1TV.ru">
+    <title lang="ru">На Соловки за чудом</title>
+  </programme>
+  <programme start="20260412111000 +0300" channel="1TV.ru">
+    <title lang="ru">Первый отряд космонавтов</title>
+  </programme>
+  <programme start="20260412120000 +0300" channel="1TV.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260412121500 +0300" channel="1TV.ru">
+    <title lang="ru">Гагарин. Человек, сошедший с небес</title>
+  </programme>
+  <programme start="20260412131000 +0300" channel="1TV.ru">
+    <title lang="ru">Путь Христа</title>
+  </programme>
+  <programme start="20260412145500 +0300" channel="1TV.ru">
+    <title lang="ru">Укрощение огня</title>
+  </programme>
+  <programme start="20260412180000 +0300" channel="1TV.ru">
+    <title lang="ru">Вечерние новости (с субтитрами)</title>
+  </programme>
+  <programme start="20260412190000 +0300" channel="1TV.ru">
+    <title lang="ru">Концерт ко Дню космонавтики</title>
+  </programme>
+  <programme start="20260412210000 +0300" channel="1TV.ru">
+    <title lang="ru">Время</title>
+  </programme>
+  <programme start="20260412230000 +0300" channel="1TV.ru">
+    <title lang="ru">Большая игра</title>
+  </programme>
+  <programme start="20260412001000 +0300" channel="1TV.ru">
+    <title lang="ru">ПОДКАСТ.ЛАБ. Космические истории</title>
+  </programme>
+  <programme start="20260412045700 +0300" channel="1TV.ru">
+    <title lang="ru">Перерыв в вещании</title>
+  </programme>
+  <programme start="20260408043500 +0300" channel="NTV.ru">
+    <title lang="ru">Пёс-4. "Хакер", "Чистильщик"</title>
+  </programme>
+  <programme start="20260408063000 +0300" channel="NTV.ru">
+    <title lang="ru">Утро. Самое лучшее</title>
+  </programme>
+  <programme start="20260408080000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260408082500 +0300" channel="NTV.ru">
+    <title lang="ru">Пёс-4. "Хакер", "Чистильщик"</title>
+  </programme>
+  <programme start="20260408100000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260408103500 +0300" channel="NTV.ru">
+    <title lang="ru">Пёс-5. Иллюзион</title>
+  </programme>
+  <programme start="20260408130000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260408132500 +0300" channel="NTV.ru">
+    <title lang="ru">Чрезвычайное происшествие</title>
+  </programme>
+  <programme start="20260408140000 +0300" channel="NTV.ru">
+    <title lang="ru">Место встречи</title>
+  </programme>
+  <programme start="20260408160000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260408162000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня в Москве</title>
+  </programme>
+  <programme start="20260408164500 +0300" channel="NTV.ru">
+    <title lang="ru">За гранью</title>
+  </programme>
+  <programme start="20260408175000 +0300" channel="NTV.ru">
+    <title lang="ru">ДНК</title>
+  </programme>
+  <programme start="20260408190000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260408200000 +0300" channel="NTV.ru">
+    <title lang="ru">Черное солнце-2. 5-я серия</title>
+  </programme>
+  <programme start="20260408210500 +0300" channel="NTV.ru">
+    <title lang="ru">Черное солнце-2. 6-я серия</title>
+  </programme>
+  <programme start="20260408221000 +0300" channel="NTV.ru">
+    <title lang="ru">Страх над Невой. 5-я серия</title>
+  </programme>
+  <programme start="20260408231000 +0300" channel="NTV.ru">
+    <title lang="ru">Страх над Невой. 6-я серия</title>
+  </programme>
+  <programme start="20260408001500 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня в Москве</title>
+  </programme>
+  <programme start="20260408003500 +0300" channel="NTV.ru">
+    <title lang="ru">Мы и наука. Наука и мы. "Через 10 лет в России создадут искусственное Солнце"</title>
+  </programme>
+  <programme start="20260408014000 +0300" channel="NTV.ru">
+    <title lang="ru">Уличное правосудие. 9-я серия</title>
+  </programme>
+  <programme start="20260408022500 +0300" channel="NTV.ru">
+    <title lang="ru">Уличное правосудие. 10-я серия</title>
+  </programme>
+  <programme start="20260408031000 +0300" channel="NTV.ru">
+    <title lang="ru">Уличное правосудие. 11-я серия</title>
+  </programme>
+  <programme start="20260408040500 +0300" channel="NTV.ru">
+    <title lang="ru">Агентство скрытых камер. Наказание страхом</title>
+  </programme>
+  <programme start="20260408043500 +0300" channel="NTV.ru">
+    <title lang="ru">Пёс-4. Чистильщик</title>
+  </programme>
+  <programme start="20260411045000 +0300" channel="NTV.ru">
+    <title lang="ru">Муж по вызову</title>
+  </programme>
+  <programme start="20260411062000 +0300" channel="NTV.ru">
+    <title lang="ru">Жди меня</title>
+  </programme>
+  <programme start="20260411072000 +0300" channel="NTV.ru">
+    <title lang="ru">Смотр</title>
+  </programme>
+  <programme start="20260411080000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260411082000 +0300" channel="NTV.ru">
+    <title lang="ru">Неограниченные возможности</title>
+  </programme>
+  <programme start="20260411092000 +0300" channel="NTV.ru">
+    <title lang="ru">Едим дома</title>
+  </programme>
+  <programme start="20260411100000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня в Москве</title>
+  </programme>
+  <programme start="20260411102000 +0300" channel="NTV.ru">
+    <title lang="ru">Главная дорога. Выпуск от 11 апреля</title>
+  </programme>
+  <programme start="20260411110000 +0300" channel="NTV.ru">
+    <title lang="ru">"Живая еда" с Сергеем Малозёмовым. Выпуск от 11 апреля</title>
+  </programme>
+  <programme start="20260411120000 +0300" channel="NTV.ru">
+    <title lang="ru">Квартирный вопрос</title>
+  </programme>
+  <programme start="20260411130000 +0300" channel="NTV.ru">
+    <title lang="ru">Сатья</title>
+  </programme>
+  <programme start="20260411140000 +0300" channel="NTV.ru">
+    <title lang="ru">Поедем, поедим! Выпуск от 11 апреля</title>
+  </programme>
+  <programme start="20260411150000 +0300" channel="NTV.ru">
+    <title lang="ru">Своя игра</title>
+  </programme>
+  <programme start="20260411160000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260411162000 +0300" channel="NTV.ru">
+    <title lang="ru">ЧП. Расследование</title>
+  </programme>
+  <programme start="20260411170000 +0300" channel="NTV.ru">
+    <title lang="ru">Следствие вели...</title>
+  </programme>
+  <programme start="20260411190000 +0300" channel="NTV.ru">
+    <title lang="ru">"Центральное телевидение" с Вадимом Такменевым</title>
+  </programme>
+  <programme start="20260411202000 +0300" channel="NTV.ru">
+    <title lang="ru">Ты не поверишь!</title>
+  </programme>
+  <programme start="20260411212000 +0300" channel="NTV.ru">
+    <title lang="ru">Секрет на миллион. Сезон 2. Маргарита Симоньян</title>
+  </programme>
+  <programme start="20260411234500 +0300" channel="NTV.ru">
+    <title lang="ru">Семь дней Петра Семёныча</title>
+  </programme>
+  <programme start="20260411013500 +0300" channel="NTV.ru">
+    <title lang="ru">Квартирник НТВ у Маргулиса. Терем-квартет</title>
+  </programme>
+  <programme start="20260411023500 +0300" channel="NTV.ru">
+    <title lang="ru">Дачный ответ</title>
+  </programme>
+  <programme start="20260411033000 +0300" channel="NTV.ru">
+    <title lang="ru">Дальнобойщик</title>
+  </programme>
+  <programme start="20260411045500 +0300" channel="NTV.ru">
+    <title lang="ru">Искупление</title>
+  </programme>
+  <programme start="20260412045500 +0300" channel="NTV.ru">
+    <title lang="ru">Искупление</title>
+  </programme>
+  <programme start="20260412064000 +0300" channel="NTV.ru">
+    <title lang="ru">"Центральное телевидение" с Вадимом Такменевым</title>
+  </programme>
+  <programme start="20260412080000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260412082000 +0300" channel="NTV.ru">
+    <title lang="ru">У нас выигрывают!</title>
+  </programme>
+  <programme start="20260412100000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260412102000 +0300" channel="NTV.ru">
+    <title lang="ru">Первая передача</title>
+  </programme>
+  <programme start="20260412110000 +0300" channel="NTV.ru">
+    <title lang="ru">Чудо техники. Выпуск от 12 апреля</title>
+  </programme>
+  <programme start="20260412120000 +0300" channel="NTV.ru">
+    <title lang="ru">Дачный ответ</title>
+  </programme>
+  <programme start="20260412130000 +0300" channel="NTV.ru">
+    <title lang="ru">НашПотребНадзор. Сезон 10. Выпуск от 12 апреля</title>
+  </programme>
+  <programme start="20260412140000 +0300" channel="NTV.ru">
+    <title lang="ru">Однажды...</title>
+  </programme>
+  <programme start="20260412150000 +0300" channel="NTV.ru">
+    <title lang="ru">Своя игра</title>
+  </programme>
+  <programme start="20260412160000 +0300" channel="NTV.ru">
+    <title lang="ru">Сегодня</title>
+  </programme>
+  <programme start="20260412162000 +0300" channel="NTV.ru">
+    <title lang="ru">Человек в праве с Андреем Куницыным</title>
+  </programme>
+  <programme start="20260412170000 +0300" channel="NTV.ru">
+    <title lang="ru">Скандалы. Интриги. Расследования</title>
+  </programme>
+  <programme start="20260412180000 +0300" channel="NTV.ru">
+    <title lang="ru">Новые русские сенсации</title>
+  </programme>
+  <programme start="20260412190000 +0300" channel="NTV.ru">
+    <title lang="ru">Итоги недели с Владимиром Чернышевым</title>
+  </programme>
+  <programme start="20260412202000 +0300" channel="NTV.ru">
+    <title lang="ru">"Маска". Новый сезон</title>
+  </programme>
+  <programme start="20260412234000 +0300" channel="NTV.ru">
+    <title lang="ru">Звезды сошлись</title>
+  </programme>
+  <programme start="20260412011500 +0300" channel="NTV.ru">
+    <title lang="ru">Космические одиссеи</title>
+  </programme>
+  <programme start="20260412022500 +0300" channel="NTV.ru">
+    <title lang="ru">Спасайся, брат!</title>
+  </programme>
+  <programme start="20260407041500 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Витаса "Песни моей мамы"</title>
+  </programme>
+  <programme start="20260407060000 +0300" channel="EH.tv">
+    <title lang="ru">Забытое</title>
+  </programme>
+  <programme start="20260407062800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Ольга Бузова "Не надо"</title>
+  </programme>
+  <programme start="20260407063200 +0300" channel="EH.tv">
+    <title lang="ru">Пальто</title>
+  </programme>
+  <programme start="20260407070100 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 2</title>
+  </programme>
+  <programme start="20260407075500 +0300" channel="EH.tv">
+    <title lang="ru">Миры и мифы Леонида Тишкова</title>
+  </programme>
+  <programme start="20260407082500 +0300" channel="EH.tv">
+    <title lang="ru">Мак$оня</title>
+  </programme>
+  <programme start="20260407083000 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Ваня Дмитриенко "Ртуть"</title>
+  </programme>
+  <programme start="20260407083400 +0300" channel="EH.tv">
+    <title lang="ru">Бисса</title>
+  </programme>
+  <programme start="20260407094500 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее. Татьяна Буланова</title>
+  </programme>
+  <programme start="20260407103800 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 1"</title>
+  </programme>
+  <programme start="20260407104000 +0300" channel="EH.tv">
+    <title lang="ru">Телеграмма</title>
+  </programme>
+  <programme start="20260407111500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Владимир Пресняков, Наталья Подольская "Между нами"</title>
+  </programme>
+  <programme start="20260407111900 +0300" channel="EH.tv">
+    <title lang="ru">С юбилеем, дорогая!</title>
+  </programme>
+  <programme start="20260407114500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Николай Басков "Небом посланная женщина"</title>
+  </programme>
+  <programme start="20260407114800 +0300" channel="EH.tv">
+    <title lang="ru">Курицы</title>
+  </programme>
+  <programme start="20260407120200 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы</title>
+  </programme>
+  <programme start="20260407125300 +0300" channel="EH.tv">
+    <title lang="ru">Булгаков. Этот мир - мой</title>
+  </programme>
+  <programme start="20260407135800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Татьяна Буланова, niletto "Первыми"</title>
+  </programme>
+  <programme start="20260407140000 +0300" channel="EH.tv">
+    <title lang="ru">Красота в глазах смотрящего</title>
+  </programme>
+  <programme start="20260407151000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 12</title>
+  </programme>
+  <programme start="20260407155800 +0300" channel="EH.tv">
+    <title lang="ru">Замоскворецкое купечество. Лепешкины</title>
+  </programme>
+  <programme start="20260407165200 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Сергей Лазарев "Тут или там"</title>
+  </programme>
+  <programme start="20260407165600 +0300" channel="EH.tv">
+    <title lang="ru">Проект люди: учитель Массальская</title>
+  </programme>
+  <programme start="20260407171700 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Клава Кока "Сто шагов назад"</title>
+  </programme>
+  <programme start="20260407171900 +0300" channel="EH.tv">
+    <title lang="ru">За свободой в Магадан</title>
+  </programme>
+  <programme start="20260407183800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Анжелика Агурбаш "Утро"</title>
+  </programme>
+  <programme start="20260407184200 +0300" channel="EH.tv">
+    <title lang="ru">Пернатый муфлон</title>
+  </programme>
+  <programme start="20260407190100 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 3</title>
+  </programme>
+  <programme start="20260407195600 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 6-7"</title>
+  </programme>
+  <programme start="20260407200000 +0300" channel="EH.tv">
+    <title lang="ru">Твой хит</title>
+  </programme>
+  <programme start="20260407202200 +0300" channel="EH.tv">
+    <title lang="ru">Гены забытых предков</title>
+  </programme>
+  <programme start="20260407204400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Филипп Киркоров, группа "Дискотека Авария" - "Яркий Я"</title>
+  </programme>
+  <programme start="20260407204800 +0300" channel="EH.tv">
+    <title lang="ru">Друзья. История в усадьбе</title>
+  </programme>
+  <programme start="20260407210300 +0300" channel="EH.tv">
+    <title lang="ru">Творческий вечер Сергея Войтенко</title>
+  </programme>
+  <programme start="20260407223300 +0300" channel="EH.tv">
+    <title lang="ru">Немой</title>
+  </programme>
+  <programme start="20260407230300 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Артур Пирожков, Элвин Грей "Женщина-магнит"</title>
+  </programme>
+  <programme start="20260407230600 +0300" channel="EH.tv">
+    <title lang="ru">Два брата</title>
+  </programme>
+  <programme start="20260407234600 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Джиган, Амирчик "От Волги до Енисея"</title>
+  </programme>
+  <programme start="20260407235000 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 43"</title>
+  </programme>
+  <programme start="20260407235400 +0300" channel="EH.tv">
+    <title lang="ru">Жизнь за жизнь</title>
+  </programme>
+  <programme start="20260407010000 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее</title>
+  </programme>
+  <programme start="20260407012700 +0300" channel="EH.tv">
+    <title lang="ru">Коктебельские камешки</title>
+  </programme>
+  <programme start="20260407025800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Игорь Матета, группа "Весна" - "Научи"</title>
+  </programme>
+  <programme start="20260407030200 +0300" channel="EH.tv">
+    <title lang="ru">Замоскворецкое купечество. Губонин. 1-я серия</title>
+  </programme>
+  <programme start="20260407034500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Хабиб "Шаганэ"</title>
+  </programme>
+  <programme start="20260407034800 +0300" channel="EH.tv">
+    <title lang="ru">Письмо с твоей планеты</title>
+  </programme>
+  <programme start="20260407043000 +0300" channel="EH.tv">
+    <title lang="ru">Творческий вечер Сергея Войтенко</title>
+  </programme>
+  <programme start="20260409042700 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Родиона Газманова "Моя гравитация"</title>
+  </programme>
+  <programme start="20260409060000 +0300" channel="EH.tv">
+    <title lang="ru">Ближайшее море</title>
+  </programme>
+  <programme start="20260409062500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Артур Пирожков, Элвин Грей "Женщина-магнит"</title>
+  </programme>
+  <programme start="20260409062900 +0300" channel="EH.tv">
+    <title lang="ru">С юбилеем, дорогая!</title>
+  </programme>
+  <programme start="20260409065500 +0300" channel="EH.tv">
+    <title lang="ru">Триптих о важном</title>
+  </programme>
+  <programme start="20260409070000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 17</title>
+  </programme>
+  <programme start="20260409075700 +0300" channel="EH.tv">
+    <title lang="ru">Учитель</title>
+  </programme>
+  <programme start="20260409081400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Эвелина Лу "На радаре"</title>
+  </programme>
+  <programme start="20260409081500 +0300" channel="EH.tv">
+    <title lang="ru">Только один</title>
+  </programme>
+  <programme start="20260409083400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Клава Кока "Сто шагов назад"</title>
+  </programme>
+  <programme start="20260409083700 +0300" channel="EH.tv">
+    <title lang="ru">Чудо</title>
+  </programme>
+  <programme start="20260409094900 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Хабиб "Шаганэ"</title>
+  </programme>
+  <programme start="20260409095200 +0300" channel="EH.tv">
+    <title lang="ru">Следующий</title>
+  </programme>
+  <programme start="20260409100000 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее. Николай Басков</title>
+  </programme>
+  <programme start="20260409105000 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 32"</title>
+  </programme>
+  <programme start="20260409105400 +0300" channel="EH.tv">
+    <title lang="ru">Просто скажи привет</title>
+  </programme>
+  <programme start="20260409110800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Дмитрий Колдун "Целую другую"</title>
+  </programme>
+  <programme start="20260409111100 +0300" channel="EH.tv">
+    <title lang="ru">Головокружение</title>
+  </programme>
+  <programme start="20260409112700 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Ирина Понаровская "Мой ангел"</title>
+  </programme>
+  <programme start="20260409113100 +0300" channel="EH.tv">
+    <title lang="ru">Фестиваль "Хранимые веками"</title>
+  </programme>
+  <programme start="20260409120000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 9</title>
+  </programme>
+  <programme start="20260409125100 +0300" channel="EH.tv">
+    <title lang="ru">Интерлюдия в стиле джаз</title>
+  </programme>
+  <programme start="20260409133400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Гарик Богомазов Поломка</title>
+  </programme>
+  <programme start="20260409133700 +0300" channel="EH.tv">
+    <title lang="ru">В поисках Валькирии</title>
+  </programme>
+  <programme start="20260409145400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Mya boyka "А он такой"</title>
+  </programme>
+  <programme start="20260409145600 +0300" channel="EH.tv">
+    <title lang="ru">Случай на перроне</title>
+  </programme>
+  <programme start="20260409150000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 4</title>
+  </programme>
+  <programme start="20260409154900 +0300" channel="EH.tv">
+    <title lang="ru">Замоскворецкое купечество. Третьяков</title>
+  </programme>
+  <programme start="20260409171800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Игорь Матета, группа "Весна" - "Научи"</title>
+  </programme>
+  <programme start="20260409172200 +0300" channel="EH.tv">
+    <title lang="ru">Женщины милосердия</title>
+  </programme>
+  <programme start="20260409174900 +0300" channel="EH.tv">
+    <title lang="ru">ЭХ! Новости</title>
+  </programme>
+  <programme start="20260409180000 +0300" channel="EH.tv">
+    <title lang="ru">Твой хит</title>
+  </programme>
+  <programme start="20260409182800 +0300" channel="EH.tv">
+    <title lang="ru">Собин. Надо помнить</title>
+  </programme>
+  <programme start="20260409190000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 16</title>
+  </programme>
+  <programme start="20260409195400 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 38"</title>
+  </programme>
+  <programme start="20260409195800 +0300" channel="EH.tv">
+    <title lang="ru">Драма</title>
+  </programme>
+  <programme start="20260409201200 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Группа "Дискотека Авария" - " Мультивитамин"</title>
+  </programme>
+  <programme start="20260409201500 +0300" channel="EH.tv">
+    <title lang="ru">Анатолий Гребнев. Дневники совсем не последнего сценариста</title>
+  </programme>
+  <programme start="20260409210000 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Сергея Переверзева "Я назову судьбу счастливой"</title>
+  </programme>
+  <programme start="20260409225200 +0300" channel="EH.tv">
+    <title lang="ru">Игра в куклы</title>
+  </programme>
+  <programme start="20260409235100 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Катя Лель "Мы все из космоса"</title>
+  </programme>
+  <programme start="20260409235400 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 30"</title>
+  </programme>
+  <programme start="20260409235700 +0300" channel="EH.tv">
+    <title lang="ru">Миражи</title>
+  </programme>
+  <programme start="20260409004500 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее. Витас</title>
+  </programme>
+  <programme start="20260409015200 +0300" channel="EH.tv">
+    <title lang="ru">Владимир Мигуля. Здравствуй и прощай!</title>
+  </programme>
+  <programme start="20260409024200 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Ваня Дмитриенко "Ртуть"</title>
+  </programme>
+  <programme start="20260409024500 +0300" channel="EH.tv">
+    <title lang="ru">Я - Виталий Карпанов</title>
+  </programme>
+  <programme start="20260409031000 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Игорь Николаев "Благоверная"</title>
+  </programme>
+  <programme start="20260409031200 +0300" channel="EH.tv">
+    <title lang="ru">Русское купечество. 1-я серия</title>
+  </programme>
+  <programme start="20260409040800 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Сергея Переверзева "Я назову судьбу счастливой"</title>
+  </programme>
+  <programme start="20260410040800 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Сергея Переверзева "Я назову судьбу счастливой"</title>
+  </programme>
+  <programme start="20260410060000 +0300" channel="EH.tv">
+    <title lang="ru">Прости нас, Юшка!</title>
+  </programme>
+  <programme start="20260410062600 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Наталья Подольская "День рождения"</title>
+  </programme>
+  <programme start="20260410063000 +0300" channel="EH.tv">
+    <title lang="ru">Немой</title>
+  </programme>
+  <programme start="20260410070000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 10</title>
+  </programme>
+  <programme start="20260410075700 +0300" channel="EH.tv">
+    <title lang="ru">Хорошие девочки</title>
+  </programme>
+  <programme start="20260410082200 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Сергей Лазарев "Тут или там"</title>
+  </programme>
+  <programme start="20260410082600 +0300" channel="EH.tv">
+    <title lang="ru">Где живет счастье. Соловки</title>
+  </programme>
+  <programme start="20260410090400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Владимир Пресняков "Учусь любить"</title>
+  </programme>
+  <programme start="20260410090800 +0300" channel="EH.tv">
+    <title lang="ru">Класс</title>
+  </programme>
+  <programme start="20260410100000 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее. Зара</title>
+  </programme>
+  <programme start="20260410103500 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 40"</title>
+  </programme>
+  <programme start="20260410103600 +0300" channel="EH.tv">
+    <title lang="ru">Невидимка</title>
+  </programme>
+  <programme start="20260410110800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Galibri &amp; Mavik "Сочи-Киров-Ростов"</title>
+  </programme>
+  <programme start="20260410111100 +0300" channel="EH.tv">
+    <title lang="ru">Слоны на Мальдивах</title>
+  </programme>
+  <programme start="20260410112400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Игорь Николаев "Благоверная"</title>
+  </programme>
+  <programme start="20260410112700 +0300" channel="EH.tv">
+    <title lang="ru">И тогда неминуемо приходит один из нас</title>
+  </programme>
+  <programme start="20260410120400 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 20</title>
+  </programme>
+  <programme start="20260410125800 +0300" channel="EH.tv">
+    <title lang="ru">Пётр и Феврония</title>
+  </programme>
+  <programme start="20260410145800 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 15</title>
+  </programme>
+  <programme start="20260410155700 +0300" channel="EH.tv">
+    <title lang="ru">Замоскворецкое купечество. Григорьев</title>
+  </programme>
+  <programme start="20260410165100 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Леонид Агутин, Анжелика Варум "Я не тот, ты не та"</title>
+  </programme>
+  <programme start="20260410165500 +0300" channel="EH.tv">
+    <title lang="ru">Молоди. Истории очевидцев</title>
+  </programme>
+  <programme start="20260410175500 +0300" channel="EH.tv">
+    <title lang="ru">Плейлист Эвелины Лу</title>
+  </programme>
+  <programme start="20260410182200 +0300" channel="EH.tv">
+    <title lang="ru">Истории из жизни кино. Великий немой в Голливуде</title>
+  </programme>
+  <programme start="20260410190000 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 18</title>
+  </programme>
+  <programme start="20260410195400 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 55"</title>
+  </programme>
+  <programme start="20260410195600 +0300" channel="EH.tv">
+    <title lang="ru">Два брата</title>
+  </programme>
+  <programme start="20260410203700 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Алсу, Ева Власова "Белая фата"</title>
+  </programme>
+  <programme start="20260410204000 +0300" channel="EH.tv">
+    <title lang="ru">Проект люди: учитель Массальская</title>
+  </programme>
+  <programme start="20260410210000 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Димы Билана "Неделимые"</title>
+  </programme>
+  <programme start="20260410221700 +0300" channel="EH.tv">
+    <title lang="ru">Любовь, как искусство веры</title>
+  </programme>
+  <programme start="20260410224400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Жасмин "Я - Весы, ты - Дева"</title>
+  </programme>
+  <programme start="20260410224800 +0300" channel="EH.tv">
+    <title lang="ru">Донбасс</title>
+  </programme>
+  <programme start="20260410232300 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Группа "Dabro" - "Вечерами"</title>
+  </programme>
+  <programme start="20260410232700 +0300" channel="EH.tv">
+    <title lang="ru">Только один</title>
+  </programme>
+  <programme start="20260410234500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Иракли "Время и стекло"</title>
+  </programme>
+  <programme start="20260410235000 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 148"</title>
+  </programme>
+  <programme start="20260410235200 +0300" channel="EH.tv">
+    <title lang="ru">Тысяча вторая хитрость</title>
+  </programme>
+  <programme start="20260410000900 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее. Дима Билан</title>
+  </programme>
+  <programme start="20260410004600 +0300" channel="EH.tv">
+    <title lang="ru">Вероника не придет</title>
+  </programme>
+  <programme start="20260410023800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Наталья Подольская "Не зря"</title>
+  </programme>
+  <programme start="20260410024200 +0300" channel="EH.tv">
+    <title lang="ru">Преодолевая сахар</title>
+  </programme>
+  <programme start="20260410034400 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Александр Добронравов "Божественная"</title>
+  </programme>
+  <programme start="20260410034700 +0300" channel="EH.tv">
+    <title lang="ru">Русское купечество. 2-я и 3-я серии</title>
+  </programme>
+  <programme start="20260410044400 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Димы Билана "Неделимые"</title>
+  </programme>
+  <programme start="20260412035100 +0300" channel="EH.tv">
+    <title lang="ru">Концерт "Золотые хиты на стихи Германа Витке"</title>
+  </programme>
+  <programme start="20260412060000 +0300" channel="EH.tv">
+    <title lang="ru">Апофеоз</title>
+  </programme>
+  <programme start="20260412062000 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Анжелика Агурбаш "Утро"</title>
+  </programme>
+  <programme start="20260412062400 +0300" channel="EH.tv">
+    <title lang="ru">Головокружение</title>
+  </programme>
+  <programme start="20260412064000 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Мужской хор "Русский формат" - "Христос Воскресе"</title>
+  </programme>
+  <programme start="20260412064200 +0300" channel="EH.tv">
+    <title lang="ru">Обретая себя</title>
+  </programme>
+  <programme start="20260412070100 +0300" channel="EH.tv">
+    <title lang="ru">Музыкальные клипы. Блок 8</title>
+  </programme>
+  <programme start="20260412075400 +0300" channel="EH.tv">
+    <title lang="ru">Байкал. Большое приключение в Сибири</title>
+  </programme>
+  <programme start="20260412081500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Мужской хор "Русский формат" - "Марие, Дево чистая"</title>
+  </programme>
+  <programme start="20260412082000 +0300" channel="EH.tv">
+    <title lang="ru">Метод Феликса</title>
+  </programme>
+  <programme start="20260412083700 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Игорь Матета, группа "Весна" - "Научи"</title>
+  </programme>
+  <programme start="20260412084000 +0300" channel="EH.tv">
+    <title lang="ru">За свободой в Магадан</title>
+  </programme>
+  <programme start="20260412100000 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее</title>
+  </programme>
+  <programme start="20260412103400 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 55"</title>
+  </programme>
+  <programme start="20260412103600 +0300" channel="EH.tv">
+    <title lang="ru">Коктебельские камешки</title>
+  </programme>
+  <programme start="20260412120800 +0300" channel="EH.tv">
+    <title lang="ru">ЭХ! Парад</title>
+  </programme>
+  <programme start="20260412124300 +0300" channel="EH.tv">
+    <title lang="ru">Верка-Фуэте</title>
+  </programme>
+  <programme start="20260412130800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Мужской хор "Русский формат" - "О, Всепетая"</title>
+  </programme>
+  <programme start="20260412131100 +0300" channel="EH.tv">
+    <title lang="ru">Любовь, как искусство веры</title>
+  </programme>
+  <programme start="20260412133800 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Стас Михайлов, Roza Zergerli "Я пью тебя до дна"</title>
+  </programme>
+  <programme start="20260412134200 +0300" channel="EH.tv">
+    <title lang="ru">Дорога к дому</title>
+  </programme>
+  <programme start="20260412145200 +0300" channel="EH.tv">
+    <title lang="ru">Концерт Анжелики Агурбаш</title>
+  </programme>
+  <programme start="20260412162300 +0300" channel="EH.tv">
+    <title lang="ru">Давай дружить!</title>
+  </programme>
+  <programme start="20260412163900 +0300" channel="EH.tv">
+    <title lang="ru">Плейлист Эвелины Лу</title>
+  </programme>
+  <programme start="20260412170500 +0300" channel="EH.tv">
+    <title lang="ru">Куст сирени</title>
+  </programme>
+  <programme start="20260412172100 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Катя Лель "Мы все из космоса"</title>
+  </programme>
+  <programme start="20260412172400 +0300" channel="EH.tv">
+    <title lang="ru">Своим голосом</title>
+  </programme>
+  <programme start="20260412185300 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Мужской хор "Русский формат" - "Христос Воскресе"</title>
+  </programme>
+  <programme start="20260412185500 +0300" channel="EH.tv">
+    <title lang="ru">Следующий</title>
+  </programme>
+  <programme start="20260412190400 +0300" channel="EH.tv">
+    <title lang="ru">ЭХ! Парад</title>
+  </programme>
+  <programme start="20260412193900 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 55"</title>
+  </programme>
+  <programme start="20260412194200 +0300" channel="EH.tv">
+    <title lang="ru">Старая песня</title>
+  </programme>
+  <programme start="20260412200200 +0300" channel="EH.tv">
+    <title lang="ru">Легенда об "Ахтамар"</title>
+  </programme>
+  <programme start="20260412200800 +0300" channel="EH.tv">
+    <title lang="ru">Маленькие ночные серенады</title>
+  </programme>
+  <programme start="20260412202000 +0300" channel="EH.tv">
+    <title lang="ru">Муха</title>
+  </programme>
+  <programme start="20260412202200 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Galibri &amp; Mavik "Сочи-Киров-Ростов"</title>
+  </programme>
+  <programme start="20260412202500 +0300" channel="EH.tv">
+    <title lang="ru">И тогда неминуемо приходит один из нас</title>
+  </programme>
+  <programme start="20260412210300 +0300" channel="EH.tv">
+    <title lang="ru">Хранимые веками</title>
+  </programme>
+  <programme start="20260412230400 +0300" channel="EH.tv">
+    <title lang="ru">Истории из жизни кино. Россия</title>
+  </programme>
+  <programme start="20260412234900 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Ольга Бузова "Не надо"</title>
+  </programme>
+  <programme start="20260412235200 +0300" channel="EH.tv">
+    <title lang="ru">В. Шекспир. "Сонет 34-35"</title>
+  </programme>
+  <programme start="20260412235500 +0300" channel="EH.tv">
+    <title lang="ru">Дядюшкина квартира</title>
+  </programme>
+  <programme start="20260412002000 +0300" channel="EH.tv">
+    <title lang="ru">Клипы. Лучшее. Группа "Баян Микс"</title>
+  </programme>
+  <programme start="20260412005000 +0300" channel="EH.tv">
+    <title lang="ru">Класс</title>
+  </programme>
+  <programme start="20260412014300 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Группа "Дискотека Авария" - " Мультивитамин"</title>
+  </programme>
+  <programme start="20260412014600 +0300" channel="EH.tv">
+    <title lang="ru">Техникум. 20 лет спустя</title>
+  </programme>
+  <programme start="20260412031500 +0300" channel="EH.tv">
+    <title lang="ru">Клип. Лучшее. Артур Пирожков, Элвин Грей "Женщина-магнит"</title>
+  </programme>
+  <programme start="20260412031900 +0300" channel="EH.tv">
+    <title lang="ru">Два брата</title>
+  </programme>
+  <programme start="20260412035900 +0300" channel="EH.tv">
+    <title lang="ru">Хранимые веками</title>
+  </programme>
+</tv>
