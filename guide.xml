@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator_info_name="GitHub_EPG_ID_System">
+<tv generator_info_name="EPG_Generator">
   <channel id="1TV.ru">
     <display-name>Первый канал</display-name>
+    <display-name>Первый канал HD</display-name>
     <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/37328/213-2/orig" />
   </channel>
   <channel id="NTV.ru">
     <display-name>НТВ</display-name>
+    <display-name>НТВ HD</display-name>
     <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/120286/213-3/orig" />
   </channel>
   <channel id="EH.tv">
     <display-name>ЭХ!</display-name>
+    <display-name>ЭХ! HD</display-name>
     <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/1545642/213-1/orig" />
   </channel>
   <channel id="ZA.tv">
     <display-name>ЗА! ТВ</display-name>
+    <display-name>ЗА ТВ</display-name>
     <icon src="https://za-media.ru/wp-content/uploads/2022/10/logo_za_tv.png" />
   </channel>
 </tv>
