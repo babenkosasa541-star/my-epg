@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="GitHub_EPG_Pro">
+<tv generator-info-name="EPG_Final">
   <channel id="1TV.ru">
     <display-name>Первый канал</display-name>
     <display-name>Первый канал HD</display-name>
@@ -20,484 +20,85 @@
     <display-name>ЗА ТВ</display-name>
     <icon src="https://za-media.ru/wp-content/uploads/2022/10/logo_za_tv.png" />
   </channel>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406050000 +0300" channel="1TV.ru">
+    <title lang="ru">05:00</title>
   </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
+  <programme start="20260406090000 +0300" channel="1TV.ru">
+    <title lang="ru">09:00</title>
   </programme>
-  <programme start="20260406110000 +0300" channel="ZA.tv">
-    <title lang="ru">Большой скачок. Программа. 37 эпизод 12+</title>
+  <programme start="20260406092500 +0300" channel="1TV.ru">
+    <title lang="ru">09:25</title>
   </programme>
-  <programme start="20260406112500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
+  <programme start="20260406101500 +0300" channel="1TV.ru">
+    <title lang="ru">10:15</title>
   </programme>
-  <programme start="20260406113000 +0300" channel="ZA.tv">
-    <title lang="ru">Настя. Фильм 16+</title>
+  <programme start="20260406110000 +0300" channel="1TV.ru">
+    <title lang="ru">11:00</title>
   </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
+  <programme start="20260406120000 +0300" channel="1TV.ru">
+    <title lang="ru">12:00</title>
   </programme>
-  <programme start="20260406135500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
+  <programme start="20260406121500 +0300" channel="1TV.ru">
+    <title lang="ru">12:15</title>
   </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Тима и Тома 1 сезон. Мультсериал 0+</title>
+  <programme start="20260406140000 +0300" channel="1TV.ru">
+    <title lang="ru">14:00</title>
   </programme>
-  <programme start="20260406141500 +0300" channel="ZA.tv">
-    <title lang="ru">Династия. Семейная история, рассказанная за ночь. Док. фильм. 1 эпизод 16+</title>
+  <programme start="20260406150000 +0300" channel="1TV.ru">
+    <title lang="ru">15:00</title>
   </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406151500 +0300" channel="1TV.ru">
+    <title lang="ru">15:15</title>
   </programme>
-  <programme start="20260406151500 +0300" channel="ZA.tv">
-    <title lang="ru">Москва. Кремль. Путин. Передача 12+</title>
+  <programme start="20260406160500 +0300" channel="1TV.ru">
+    <title lang="ru">16:05</title>
   </programme>
-  <programme start="20260406160000 +0300" channel="ZA.tv">
-    <title lang="ru">Красная зона. Сериал. 56 эпизод 16+</title>
+  <programme start="20260406170000 +0300" channel="1TV.ru">
+    <title lang="ru">17:00</title>
   </programme>
-  <programme start="20260406170000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406180000 +0300" channel="1TV.ru">
+    <title lang="ru">18:00</title>
   </programme>
-  <programme start="20260406173000 +0300" channel="ZA.tv">
-    <title lang="ru">Мнимый больной с Андреем Понкратовым. Программа. 3 эпизод 16+</title>
+  <programme start="20260406183000 +0300" channel="1TV.ru">
+    <title lang="ru">18:30</title>
   </programme>
-  <programme start="20260406180000 +0300" channel="ZA.tv">
-    <title lang="ru">Темная сторона души. Сериал. 2 эпизод 12+</title>
+  <programme start="20260406195000 +0300" channel="1TV.ru">
+    <title lang="ru">19:50</title>
   </programme>
-  <programme start="20260406185500 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
+  <programme start="20260406210000 +0300" channel="1TV.ru">
+    <title lang="ru">21:00</title>
   </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406220000 +0300" channel="1TV.ru">
+    <title lang="ru">22:00</title>
   </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
+  <programme start="20260406230000 +0300" channel="1TV.ru">
+    <title lang="ru">23:00</title>
   </programme>
-  <programme start="20260406195500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
+  <programme start="20260406001000 +0300" channel="1TV.ru">
+    <title lang="ru">00:10</title>
   </programme>
-  <programme start="20260406200000 +0300" channel="ZA.tv">
-    <title lang="ru">Москва. Кремль. Путин. Передача 12+</title>
+  <programme start="20260406010500 +0300" channel="1TV.ru">
+    <title lang="ru">01:05</title>
   </programme>
-  <programme start="20260406210000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406014500 +0300" channel="1TV.ru">
+    <title lang="ru">01:45</title>
   </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">Завещание Сталина. Фильм 16+</title>
+  <programme start="20260406022000 +0300" channel="1TV.ru">
+    <title lang="ru">02:20</title>
   </programme>
-  <programme start="20260406232500 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
+  <programme start="20260406030000 +0300" channel="1TV.ru">
+    <title lang="ru">03:00</title>
   </programme>
-  <programme start="20260406233000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406030500 +0300" channel="1TV.ru">
+    <title lang="ru">03:05</title>
   </programme>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
+  <programme start="20260406034000 +0300" channel="1TV.ru">
+    <title lang="ru">03:40</title>
   </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
+  <programme start="20260406042000 +0300" channel="1TV.ru">
+    <title lang="ru">04:20</title>
   </programme>
-  <programme start="20260406110000 +0300" channel="ZA.tv">
-    <title lang="ru">Большой скачок. Программа. 38 эпизод 12+</title>
-  </programme>
-  <programme start="20260406112500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406113000 +0300" channel="ZA.tv">
-    <title lang="ru">Темная сторона души. Сериал. 2 эпизод 12+</title>
-  </programme>
-  <programme start="20260406123000 +0300" channel="ZA.tv">
-    <title lang="ru">Москва. Кремль. Путин. Передача 12+</title>
-  </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406135500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Кошечки-Собачки. Мультсериал 0+</title>
-  </programme>
-  <programme start="20260406141500 +0300" channel="ZA.tv">
-    <title lang="ru">Династия. Семейная история, рассказанная за ночь. Док. фильм. 2 эпизод 16+</title>
-  </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406153000 +0300" channel="ZA.tv">
-    <title lang="ru">Большой скачок. Программа. 49 эпизод 12+</title>
-  </programme>
-  <programme start="20260406160000 +0300" channel="ZA.tv">
-    <title lang="ru">Темная сторона души. Сериал. 3 эпизод 12+</title>
-  </programme>
-  <programme start="20260406170000 +0300" channel="ZA.tv">
-    <title lang="ru">ФК "Фрегат" Херсонская область - Сборная Запорожской области. Футбол. 1 тайм. Прямая трансляция 0+</title>
-  </programme>
-  <programme start="20260406175500 +0300" channel="ZA.tv">
-    <title lang="ru">За!Футбол. Передача 12+</title>
-  </programme>
-  <programme start="20260406181000 +0300" channel="ZA.tv">
-    <title lang="ru">ФК "Фрегат" Херсонская область - Сборная Запорожской области. Футбол. 2 тайм. Прямая трансляция 0+</title>
-  </programme>
-  <programme start="20260406175500 +0300" channel="ZA.tv">
-    <title lang="ru">За!Футбол. Передача 12+</title>
-  </programme>
-  <programme start="20260406181000 +0300" channel="ZA.tv">
-    <title lang="ru">ФК «Фрегат» Херсонская область – Сборная Запорожской области. Футбол. 2 тайм. Прямая трансляция 0+</title>
-  </programme>
-  <programme start="20260406185500 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406195500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406200000 +0300" channel="ZA.tv">
-    <title lang="ru">Пуля. Сериал. 10 эпизод 16+</title>
-  </programme>
-  <programme start="20260406205000 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406210000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">Полночное солнце. Фильм 16+</title>
-  </programme>
-  <programme start="20260406233000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406110000 +0300" channel="ZA.tv">
-    <title lang="ru">Большой скачок. Программа. 39 эпизод 12+</title>
-  </programme>
-  <programme start="20260406112500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406113000 +0300" channel="ZA.tv">
-    <title lang="ru">Темная сторона души. Сериал. 3 эпизод 12+</title>
-  </programme>
-  <programme start="20260406123000 +0300" channel="ZA.tv">
-    <title lang="ru">Пуля. Сериал. 10 эпизод 16+</title>
-  </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406135500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Цветняшки. Мультсериал. 1 сезон 0+</title>
-  </programme>
-  <programme start="20260406141500 +0300" channel="ZA.tv">
-    <title lang="ru">Династия. Семейная история, рассказанная за ночь. Док. фильм. 3 эпизод 16+</title>
-  </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406153000 +0300" channel="ZA.tv">
-    <title lang="ru">Большой скачок. Программа. 50 эпизод 12+</title>
-  </programme>
-  <programme start="20260406160000 +0300" channel="ZA.tv">
-    <title lang="ru">Красная зона. Сериал. 58 эпизод 16+</title>
-  </programme>
-  <programme start="20260406170000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406173000 +0300" channel="ZA.tv">
-    <title lang="ru">За!Подкаст. Передача 12+</title>
-  </programme>
-  <programme start="20260406180000 +0300" channel="ZA.tv">
-    <title lang="ru">Темная сторона души. Сериал. 4 эпизод 12+</title>
-  </programme>
-  <programme start="20260406185500 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406195500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406200000 +0300" channel="ZA.tv">
-    <title lang="ru">Счастливый билет. Сериал. 1 эпизод 16+</title>
-  </programme>
-  <programme start="20260406205000 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406210000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">В лесах Сибири. Фильм 16+</title>
-  </programme>
-  <programme start="20260406233000 +0300" channel="ZA.tv">
-    <title lang="ru">ФК «Фрегат» Херсонская область – Сборная Запорожской области. Футбол. Повтор от 07.04.2026 0+</title>
-  </programme>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406110000 +0300" channel="ZA.tv">
-    <title lang="ru">За!Подкаст. Передача 12+</title>
-  </programme>
-  <programme start="20260406112500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406113000 +0300" channel="ZA.tv">
-    <title lang="ru">Темная сторона души. Сериал. 4 эпизод 12+</title>
-  </programme>
-  <programme start="20260406123000 +0300" channel="ZA.tv">
-    <title lang="ru">Счастливый билет. Сериал. 1 эпизод 16+</title>
-  </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406135500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Союзмультфильм. Сказки 0+</title>
-  </programme>
-  <programme start="20260406141500 +0300" channel="ZA.tv">
-    <title lang="ru">Династия. Семейная история, рассказанная за ночь. Док. фильм. 4 эпизод 16+</title>
-  </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406153000 +0300" channel="ZA.tv">
-    <title lang="ru">За!Подкаст. Передача 12+</title>
-  </programme>
-  <programme start="20260406160000 +0300" channel="ZA.tv">
-    <title lang="ru">Красная зона. Сериал. 59 эпизод 16+</title>
-  </programme>
-  <programme start="20260406170000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406173000 +0300" channel="ZA.tv">
-    <title lang="ru">Голос Первых. Передача 12+</title>
-  </programme>
-  <programme start="20260406174500 +0300" channel="ZA.tv">
-    <title lang="ru">За!Футбол. Передача 12+</title>
-  </programme>
-  <programme start="20260406180000 +0300" channel="ZA.tv">
-    <title lang="ru">Бессонница. Сериал. 1 эпизод 16+</title>
-  </programme>
-  <programme start="20260406185500 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406195500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406200000 +0300" channel="ZA.tv">
-    <title lang="ru">Счастливый билет. Сериал. 2 эпизод 16+</title>
-  </programme>
-  <programme start="20260406205000 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406210000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">Этот неловкий момент. Фильм 16+</title>
-  </programme>
-  <programme start="20260406233000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406110000 +0300" channel="ZA.tv">
-    <title lang="ru">Голос Первых. Передача 12+</title>
-  </programme>
-  <programme start="20260406112500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406113000 +0300" channel="ZA.tv">
-    <title lang="ru">Бессонница. Сериал. 1 эпизод 16+</title>
-  </programme>
-  <programme start="20260406123000 +0300" channel="ZA.tv">
-    <title lang="ru">Счастливый билет. Сериал. 2 эпизод 16+</title>
-  </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406135500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Смешарики. Мультсериал 0+</title>
-  </programme>
-  <programme start="20260406141500 +0300" channel="ZA.tv">
-    <title lang="ru">Династия. Семейная история, рассказанная за ночь. Док. фильм. 5 эпизод 16+</title>
-  </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Сборная Запорожской области – ФК КЧФ «Черноморец» Севастополь. Футбол. Прямая трансляция 0+</title>
-  </programme>
-  <programme start="20260406170000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406173000 +0300" channel="ZA.tv">
-    <title lang="ru">Спасти космонавта. Док. фильм 12+</title>
-  </programme>
-  <programme start="20260406180000 +0300" channel="ZA.tv">
-    <title lang="ru">Бессонница. Сериал. 2 эпизод 16+</title>
-  </programme>
-  <programme start="20260406185500 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Слово сенатора. Передача 12+</title>
-  </programme>
-  <programme start="20260406195500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406200000 +0300" channel="ZA.tv">
-    <title lang="ru">Счастливый билет. Сериал. 3 эпизод 16+</title>
-  </programme>
-  <programme start="20260406205000 +0300" channel="ZA.tv">
-    <title lang="ru">Мнение Авдеева. Передача 16+</title>
-  </programme>
-  <programme start="20260406210000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">Семь пар нечистых. Фильм 16+</title>
-  </programme>
-  <programme start="20260406233000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406110000 +0300" channel="ZA.tv">
-    <title lang="ru">Счастливый билет. Сериал. 3 эпизод 16+</title>
-  </programme>
-  <programme start="20260406120000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406123000 +0300" channel="ZA.tv">
-    <title lang="ru">Слово сенатора. Передача 12+</title>
-  </programme>
-  <programme start="20260406130000 +0300" channel="ZA.tv">
-    <title lang="ru">Голос Первых. Передача 12+</title>
-  </programme>
-  <programme start="20260406132500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Династия. Семейная история, рассказанная за ночь. Док. фильм. 5 эпизод 16+</title>
-  </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406153000 +0300" channel="ZA.tv">
-    <title lang="ru">За!Подкаст. Передача 12+</title>
-  </programme>
-  <programme start="20260406160000 +0300" channel="ZA.tv">
-    <title lang="ru">Загадочные убийства Агаты Кристи-2. Сериал. 13 эпизод 16+</title>
-  </programme>
-  <programme start="20260406173000 +0300" channel="ZA.tv">
-    <title lang="ru">Воскресная ночь. Советское кино 12+</title>
-  </programme>
-  <programme start="20260406185500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">ЗА!Неделю 16+</title>
-  </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Преступление в фокусе. Фильм. 1, 2 серия 16+</title>
-  </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406220000 +0300" channel="ZA.tv">
-    <title lang="ru">Мечта с подвохом. Фильм 16+</title>
-  </programme>
-  <programme start="20260406100000 +0300" channel="ZA.tv">
-    <title lang="ru">ЗА!Неделю 16+</title>
-  </programme>
-  <programme start="20260406103000 +0300" channel="ZA.tv">
-    <title lang="ru">Мечты робота. Мультфильм 12+</title>
-  </programme>
-  <programme start="20260406120000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406123000 +0300" channel="ZA.tv">
-    <title lang="ru">За!Подкаст. Передача 12+</title>
-  </programme>
-  <programme start="20260406130000 +0300" channel="ZA.tv">
-    <title lang="ru">Голос Первых. Передача 12+</title>
-  </programme>
-  <programme start="20260406132500 +0300" channel="ZA.tv">
-    <title lang="ru">На линии с Андреем Хорьковым. Передача 16+</title>
-  </programme>
-  <programme start="20260406133000 +0300" channel="ZA.tv">
-    <title lang="ru">Интервью. Передача 12+</title>
-  </programme>
-  <programme start="20260406140000 +0300" channel="ZA.tv">
-    <title lang="ru">Создать космонавта. Док. фильм 12+</title>
-  </programme>
-  <programme start="20260406150000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406153000 +0300" channel="ZA.tv">
-    <title lang="ru">Слово сенатора. Передача 12+</title>
-  </programme>
-  <programme start="20260406160000 +0300" channel="ZA.tv">
-    <title lang="ru">Загадочные убийства Агаты Кристи-2. Сериал. 14 эпизод 16+</title>
-  </programme>
-  <programme start="20260406173000 +0300" channel="ZA.tv">
-    <title lang="ru">Иду искать. Советское кино 16+</title>
-  </programme>
-  <programme start="20260406185000 +0300" channel="ZA.tv">
-    <title lang="ru">Территория закона. Передача 12+</title>
-  </programme>
-  <programme start="20260406190000 +0300" channel="ZA.tv">
-    <title lang="ru">ЗА!Неделю 16+</title>
-  </programme>
-  <programme start="20260406193000 +0300" channel="ZA.tv">
-    <title lang="ru">Преступление в фокусе. Фильм. 3, 4 серия 16+</title>
-  </programme>
-  <programme start="20260406213000 +0300" channel="ZA.tv">
-    <title lang="ru">Новости 16+</title>
-  </programme>
-  <programme start="20260406220000 +0300" channel="ZA.tv">
-    <title lang="ru">Гагарин. Первый в космосе. Фильм 16+</title>
+  <programme start="20260406045700 +0300" channel="1TV.ru">
+    <title lang="ru">04:57</title>
   </programme>
 </tv>
