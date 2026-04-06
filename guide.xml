@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator_info_name="EPG_Generator">
+<tv generator-info-name="MyEPG" source-info-name="Yandex-ZA">
   <channel id="1TV.ru">
     <display-name>Первый канал</display-name>
     <display-name>Первый канал HD</display-name>
