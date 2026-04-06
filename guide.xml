@@ -1,190 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator_info_name="GitHub_EPG">
+<tv generator_info_name="GitHub_EPG_ID_System">
   <channel id="1TV.ru">
-    <display-name>Первый канал HD</display-name>
     <display-name>Первый канал</display-name>
-    <display-name>Первый HD</display-name>
     <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/37328/213-2/orig" />
   </channel>
   <channel id="NTV.ru">
     <display-name>НТВ</display-name>
-    <display-name>НТВ HD</display-name>
-    <display-name>HTB</display-name>
     <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/120286/213-3/orig" />
   </channel>
   <channel id="EH.tv">
     <display-name>ЭХ!</display-name>
-    <display-name>ЭХ! HD</display-name>
-    <display-name>Телеканал ЭХ!</display-name>
     <icon src="https://avatars.mds.yandex.net/get-tv-channel-logos/1545642/213-1/orig" />
   </channel>
   <channel id="ZA.tv">
     <display-name>ЗА! ТВ</display-name>
-    <display-name>ЗА ТВ HD</display-name>
-    <display-name>ЗА! ТВ (Мелитополь)</display-name>
-    <display-name>ЗА ТВ</display-name>
     <icon src="https://za-media.ru/wp-content/uploads/2022/10/logo_za_tv.png" />
   </channel>
-  <programme start="20260407050000 +0300" channel="1TV.ru">
-    <title lang="ru">Телеканал "Доброе утро"</title>
-  </programme>
-  <programme start="20260407090000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260407092500 +0300" channel="1TV.ru">
-    <title lang="ru">Модный приговор</title>
-  </programme>
-  <programme start="20260407101500 +0300" channel="1TV.ru">
-    <title lang="ru">Жить здорово!</title>
-  </programme>
-  <programme start="20260407110000 +0300" channel="1TV.ru">
-    <title lang="ru">Время покажет</title>
-  </programme>
-  <programme start="20260407120000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260407121500 +0300" channel="1TV.ru">
-    <title lang="ru">Время покажет</title>
-  </programme>
-  <programme start="20260407140000 +0300" channel="1TV.ru">
-    <title lang="ru">Большая игра</title>
-  </programme>
-  <programme start="20260407150000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260407151500 +0300" channel="1TV.ru">
-    <title lang="ru">Давай поженимся!</title>
-  </programme>
-  <programme start="20260407160500 +0300" channel="1TV.ru">
-    <title lang="ru">Мужское / Женское</title>
-  </programme>
-  <programme start="20260407170000 +0300" channel="1TV.ru">
-    <title lang="ru">Большая игра</title>
-  </programme>
-  <programme start="20260407180000 +0300" channel="1TV.ru">
-    <title lang="ru">Вечерние новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260407183000 +0300" channel="1TV.ru">
-    <title lang="ru">Время покажет</title>
-  </programme>
-  <programme start="20260407195000 +0300" channel="1TV.ru">
-    <title lang="ru">Пусть говорят</title>
-  </programme>
-  <programme start="20260407210000 +0300" channel="1TV.ru">
-    <title lang="ru">Время</title>
-  </programme>
-  <programme start="20260407220000 +0300" channel="1TV.ru">
-    <title lang="ru">Павел. Первый и последний. 10-я серия</title>
-  </programme>
-  <programme start="20260407230000 +0300" channel="1TV.ru">
-    <title lang="ru">Большая игра</title>
-  </programme>
-  <programme start="20260407001000 +0300" channel="1TV.ru">
-    <title lang="ru">Рокот космодрома. 2-я серия</title>
-  </programme>
-  <programme start="20260407010500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Баден-Баден</title>
-  </programme>
-  <programme start="20260407014500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Легкие деньги</title>
-  </programme>
-  <programme start="20260407022000 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Жизнь замечательных</title>
-  </programme>
-  <programme start="20260407030000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости</title>
-  </programme>
-  <programme start="20260407030500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Обман веществ</title>
-  </programme>
-  <programme start="20260407034000 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Психика</title>
-  </programme>
-  <programme start="20260407042000 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Все хотят летать</title>
-  </programme>
-  <programme start="20260407045700 +0300" channel="1TV.ru">
-    <title lang="ru">Перерыв в вещании</title>
-  </programme>
-  <programme start="20260409050000 +0300" channel="1TV.ru">
-    <title lang="ru">Телеканал "Доброе утро"</title>
-  </programme>
-  <programme start="20260409090000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260409092500 +0300" channel="1TV.ru">
-    <title lang="ru">Модный приговор</title>
-  </programme>
-  <programme start="20260409101500 +0300" channel="1TV.ru">
-    <title lang="ru">Жить здорово!</title>
-  </programme>
-  <programme start="20260409110000 +0300" channel="1TV.ru">
-    <title lang="ru">Время покажет</title>
-  </programme>
-  <programme start="20260409120000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260409121500 +0300" channel="1TV.ru">
-    <title lang="ru">Время покажет</title>
-  </programme>
-  <programme start="20260409140000 +0300" channel="1TV.ru">
-    <title lang="ru">Большая игра</title>
-  </programme>
-  <programme start="20260409150000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260409151500 +0300" channel="1TV.ru">
-    <title lang="ru">Давай поженимся!</title>
-  </programme>
-  <programme start="20260409160500 +0300" channel="1TV.ru">
-    <title lang="ru">Мужское / Женское</title>
-  </programme>
-  <programme start="20260409170000 +0300" channel="1TV.ru">
-    <title lang="ru">Большая игра</title>
-  </programme>
-  <programme start="20260409180000 +0300" channel="1TV.ru">
-    <title lang="ru">Вечерние новости (с субтитрами)</title>
-  </programme>
-  <programme start="20260409183000 +0300" channel="1TV.ru">
-    <title lang="ru">Время покажет</title>
-  </programme>
-  <programme start="20260409195000 +0300" channel="1TV.ru">
-    <title lang="ru">Пусть говорят</title>
-  </programme>
-  <programme start="20260409210000 +0300" channel="1TV.ru">
-    <title lang="ru">Время</title>
-  </programme>
-  <programme start="20260409220000 +0300" channel="1TV.ru">
-    <title lang="ru">Павел. Первый и последний. 12-я серия</title>
-  </programme>
-  <programme start="20260409230000 +0300" channel="1TV.ru">
-    <title lang="ru">Большая игра</title>
-  </programme>
-  <programme start="20260409001000 +0300" channel="1TV.ru">
-    <title lang="ru">Рокот космодрома. 4-я серия</title>
-  </programme>
-  <programme start="20260409010500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Обман веществ</title>
-  </programme>
-  <programme start="20260409014500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Баден-Баден</title>
-  </programme>
-  <programme start="20260409022000 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Пусть не говорят, пусть читают</title>
-  </programme>
-  <programme start="20260409030000 +0300" channel="1TV.ru">
-    <title lang="ru">Новости</title>
-  </programme>
-  <programme start="20260409030500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Кот Шрёдингера</title>
-  </programme>
-  <programme start="20260409034500 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Сон в руку</title>
-  </programme>
-  <programme start="20260409042000 +0300" channel="1TV.ru">
-    <title lang="ru">ПОДКАСТ.ЛАБ. Жизнь замечательных</title>
-  </programme>
-  <programme start="20260409045700 +0300" channel="1TV.ru">
-    <title lang="ru">Перерыв в вещании</title>
-  </programme>
 </tv>
